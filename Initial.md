@@ -9,4 +9,11 @@ git status
 git add .
 git push -u origin master
 
+==================
+git credential-cache exit
+ssh-keygen -t rsa -b 4096 -C "kmpadmavathi4577@gmail.com"
+git remote set-url origin git@github.com:DSGurucharan/Development-learning.git
+git push -u origin feature-branch-01
+
+
 
